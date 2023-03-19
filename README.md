@@ -4,9 +4,9 @@ Math is one of the most significant tool/language to understand and evaluate the
 
 If math is a language to use in distinctive sciences, it means that all sciences will utilize math in their own way or interest. To illustrate, for psychologists, it is more important to work on statistics and related math topics. Of cource, while studying statistics, one should grasp related math subjects as well. However, at least in education system in Turkiye, the topics are tried to be devided regarding the sort of the sciences. 
 
-In terms of software, it is crucial to understand and internalize most of the math. Hence, one can be able to algorithms. The more one grasps the math, the better s/he gets in software.
+In terms of software, it is crucial to understand and internalize most of the math. Hence, one can be able to understand and create algorithms. The more one grasps the math, the better s/he gets in software or other engineering departments.
 
-For instance, limits describe how a function behaves near a point, instead of at that point (Khan Academy, 2017). So limits can display how close we are to target point. The subject of limits is certainly useful for data analysis. To illustrate, developers who work with Python can use limits while analyzing the data or programming. In a nutshell, math will always be part of our lives. 
+For instance, limits describe how a function behaves near a point, instead of at that point (Khan Academy, 2017). So limits can display how close we are to target point. The subject of limits is certainly useful for data analysis. To illustrate, developers who work with Python can use limits while analyzing the data, creating needed algorithms or programming. In a nutshell, math will always be a universal language that helps us to discover the world. 
 
 **REFERENCES**
 
